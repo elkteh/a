@@ -1,14 +1,14 @@
 const messages = [
     "Estas segura?",
     "Muy segura??",
-    "de verdad estas segura?",
-    "Mely por favor...",
-    "piensalo por favor...",
+    "De verdad estas segura?",
+    "Por favor...",
+    "Piensalo por favor...",
     "Si dices que no, estare muy triste...",
     "Voy a estar muy triste...",
     "Voy a estar muy muy triste...",
     "Esta bien, ya no te voy a preguntar...",
-    "no te creas, ya di que si por favor ❤️"
+    "No te creas, ya di que si por favor ❤️"
 ];
 
 let messageIndex = 0;
