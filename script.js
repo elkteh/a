@@ -1,6 +1,6 @@
 const messages = [
     "Estas segura?",
-    "Muy segura??",
+    "Muy segura?",
     "De verdad estas segura?",
     "Por favor...",
     "Piensalo por favor...",
